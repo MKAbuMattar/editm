@@ -36,4 +36,4 @@ yarn build
 
 ## Author
 
-[Mohammad K. Abu Mattar](mkabumattar.github.io)
+[Mohammad K. Abu Mattar](https://mkabumattar.github.io)
